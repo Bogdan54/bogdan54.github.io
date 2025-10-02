@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Bogdan Căpitănescu
 ---
 
 # Bogdan Căpitănescu
