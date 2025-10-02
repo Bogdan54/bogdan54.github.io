@@ -46,6 +46,8 @@ B.Sc. Electronics & Telecommunications Engineering – Politehnica University Ti
 - [{{ post.title }}]({{ post.url }}) – {{ post.date | date: "%b %d, %Y" }}
 {% endfor %}
 
+[See all posts →](/blog)
+
 ---
 
 ## 📡 RSS Feed
