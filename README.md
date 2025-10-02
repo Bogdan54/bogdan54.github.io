@@ -10,7 +10,7 @@ It’s deployed using [GitHub Pages](https://pages.github.com/).
 - Responsive and lightweight  
 - Powered by Jekyll, easy to extend  
 - Hosted for free on GitHub Pages  
-- Accessible at my custom domain: **[https://example.xyz](https://example.xyz)**  
+- Accessible at my custom domain: **[https://bogdancapitanescu.xyz](https://bogdancapitanescu.xyz)**  
 
 ---
 
