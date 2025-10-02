@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Bogdan Căpitănescu
 **Electronics & Telecommunications Engineer** 
 
 ---
