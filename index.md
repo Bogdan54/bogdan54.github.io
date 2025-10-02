@@ -2,10 +2,15 @@
 layout: home
 ---
 
+# Bogdan Căpitănescu
 **Electronics & Telecommunications Engineer** 
 
 ---
 
+**About Me**  
+Driven Electronics and Telecommunications Engineer with a passion for building and automating systems. I maintain my own hosted services, develop Python automation tools, and work on hands-on projects bridging software, networking, and embedded systems. Curious and self-motivated, I enjoy creating practical solutions, optimizing workflows, and continuously learning new technologies.
+
+---
 
 ## 🎓 Education
 B.Sc. Electronics & Telecommunications Engineering – Politehnica University Timișoara 
