@@ -7,13 +7,6 @@ layout: home
 ---
 
 
-## 📬 Contact
-- Email: [bogdan@capitanescu.xyz](mailto:bogdan@capitanescu.xyz)
-- GitHub: [github.com/bogdan54](https://github.com/bogdan54)
-- LinkedIn: [linkedin.com/in/bogdan54](https://linkedin.com/in/bogdan54)
-
----
-
 ## 🎓 Education
 B.Sc. Electronics & Telecommunications Engineering – Politehnica University Timișoara 
 
@@ -38,7 +31,7 @@ B.Sc. Electronics & Telecommunications Engineering – Politehnica University Ti
 ---
 
 ## 💼 Professional Experience
--
+- **Summer Practice Trainee** – Hands-on experience with Linux server administration, sensor testing, process automation, Python programming, and C programming
 
 ---
 
