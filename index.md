@@ -6,8 +6,11 @@ layout: home
 
 ---
 
-## 💼 Experience
--
+
+## 📬 Contact
+- Email: [bogdan@capitanescu.xyz](mailto:bogdan@capitanescu.xyz)
+- GitHub: [github.com/bogdan54](https://github.com/bogdan54)
+- LinkedIn: [linkedin.com/in/bogdan54](https://linkedin.com/in/bogdan54)
 
 ---
 
@@ -24,12 +27,6 @@ B.Sc. Electronics & Telecommunications Engineering – Politehnica University Ti
 
 ---
 
-## 📬 Contact
-- Email: [bogdan@capitanescu.xyz](mailto:bogdan@capitanescu.xyz)
-- GitHub: [github.com/bogdan54](https://github.com/bogdan54)
-- LinkedIn: [linkedin.com/in/bogdan54](https://linkedin.com/in/bogdan54)
-
-
 ## 🚀 Latest Projects
 
 {% for repo in site.data.projects limit:5 %}
@@ -37,6 +34,11 @@ B.Sc. Electronics & Telecommunications Engineering – Politehnica University Ti
 {% endfor %}
 
 [See all projects →](/projects)
+
+---
+
+## 💼 Professional Experience
+-
 
 ---
 
