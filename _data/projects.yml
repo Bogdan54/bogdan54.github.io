@@ -1,7 +1,4 @@
-- name: Project One
-  url: https://github.com/yourusername/project-one
+- name: Wikipedia Scraper
+  url: https://github.com/Bogdan54/Scrape-Wikipedia-in-Python-and-Beautiful-Soup-and-HTML5Lib
   description: Short description from README
 
-- name: Project Two
-  url: https://github.com/yourusername/project-two
-  description: Short description from README
