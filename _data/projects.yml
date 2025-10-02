@@ -1,0 +1,7 @@
+- name: Project One
+  url: https://github.com/yourusername/project-one
+  description: Short description from README
+
+- name: Project Two
+  url: https://github.com/yourusername/project-two
+  description: Short description from README
