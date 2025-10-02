@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# 👋 Hi, I’m Bogdan Căpitănescu
-
 **Electronics & Telecommunications Engineer** 
 
 ---
