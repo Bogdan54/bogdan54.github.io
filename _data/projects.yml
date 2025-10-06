@@ -1,4 +1,4 @@
 - name: Wikipedia Scraper
   url: https://github.com/Bogdan54/Scrape-Wikipedia-in-Python-and-Beautiful-Soup-and-HTML5Lib
-  description: Short description from README
+  description: Python tool to search and scrape Wikipedia pages using Beautiful Soup and HTML5Lib, with both GUI and command-line support.
 
