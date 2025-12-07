@@ -1,7 +1,7 @@
 title: Bogdan Căpitănescu # name of the site
 author: Bogdan Căpitănescu # name of site's author
 email: bogdan@capitanescu.xyz # email of site's author
-url: https://bogdancapitanescu.xyz # root address of the site
+url: http://bogdancapitanescu.xyz # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   Bogdan Căpitănescu's Landing Page
